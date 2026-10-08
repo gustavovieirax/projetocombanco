@@ -253,7 +253,7 @@ def atualizar_cliente(id: int, cliente: Cliente):
 ```
 
 **Teste:** no `/docs`, use `PUT /clientes/{id}` para alterar o nome de um cliente.
-Depois busque o mesmo ID com `GET /clientes/{id}` para confirmar a alteração.
+Depois busque o mesmo ID com `GET /clientes{id}` para confirmar a alteração.
 
 ---
 

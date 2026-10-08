@@ -135,9 +135,11 @@ garanta que esteja em C:\projetocombanco
 git status
 git remote set-url origin https://github.com/projetos-cintia/teste.git
 git add -A
-git commit -m "criando estrutura basica"
+git commit -
 git push
-```
+
+
+git commit -m 
 
 ### Por que usar `git add -A`?
 
